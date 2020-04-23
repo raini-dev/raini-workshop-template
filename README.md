@@ -16,7 +16,7 @@
 - [ ] Create a `Propose a workshop` issue [here](https://github.com/raini-dev/raini/issues/new/choose)
 - [ ] Make sure everything above is checked and delete this checklist
 
-**NOTE**: the code for the workshop MUST NOT be in this repository directly.
+**NOTE**: the code for the workshop MUST NOT be in the master branch of this repository.
 
 ## List of Requirements
 
