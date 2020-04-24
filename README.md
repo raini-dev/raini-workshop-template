@@ -1,8 +1,10 @@
 # Raini Workshop <!-- <- Replace with the name of your workshop -->
 
-[![raini](https://img.shields.io/badge/raini-workshop-orange)](https://github.com/raini-dev/raini)
 <!-- Assign the difficulty level for your workshop -->
 <!-- @see https://github.com/raini-dev/raini/blob/master/docs/workshop-difficulty-levels.md -->
+[![theory: n/a](https://img.shields.io/badge/theory-n%2Fa-lightgrey)](https://github.com/raini-dev/raini/blob/master/docs/workshop-difficulty-levels.md)
+[![practice: n/a](https://img.shields.io/badge/practice-n%2Fa-lightgrey)](https://github.com/raini-dev/raini/blob/master/docs/workshop-difficulty-levels.md)
+[![raini](https://img.shields.io/badge/raini-workshop-indianred)](https://github.com/raini-dev/raini)
 
 ## Checklist
 <!-- This checklist section should be removed when completed -->
@@ -19,7 +21,7 @@
 ## List of Requirements
 
 <!-- Provide a list of requirements for the attendees -->
-<!-- If your workshop is of a mix of Novice or n/a difficulties, remove this section -->
+<!-- If your workshop blocks are a mix of Novice or n/a difficulties, remove this section -->
 
 ## Description
 
